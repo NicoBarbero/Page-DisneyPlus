@@ -1,2 +1,2 @@
 # Mi-portafolio
-Este es mi portafolio hecho en HTML y CSS 
+Este es mi proyecto de clonar Disney+ con html,css y javascript
